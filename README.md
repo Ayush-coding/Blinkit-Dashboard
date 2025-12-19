@@ -36,9 +36,9 @@ Tier 3 outlets generate the highest sales
 Supermarket Type 1 contributes the maximum revenue
 Regular fat items dominate total sales
 Fruits, snacks, and household items are top-performing categorie
-Tier 3 outlets generate the highest sales
-Supermarket Type 1 contributes the maximum revenue
 
-Regular fat items dominate total sales
+Screenshort / Demo
 
-Fruits, snacks, and household items are top-performing categories
+show what the dashboard look like. - 
+Example: ![Dashboard preview](https://github.com/Ayush-coding/Blinkit-Dashboard/blob/main/Blinkit%20Sales.png)
+
